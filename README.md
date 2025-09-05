@@ -177,6 +177,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 **Arman Raghav**  
 Email: [armanraghavwork@gmail.com]()  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+GitHub: [https://github.com/yourusername](https://github.com/armanraghav)  
 
 ---
